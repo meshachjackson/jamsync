@@ -6,14 +6,16 @@ This project is being developed with the assistance of ChatGPT, a large language
 
 ## Table of Contents
 
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Folder Hierarchy](#folder-hierarchy)
-- [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
+- [JamSync](#jamsync)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Dependencies](#dependencies)
+  - [Folder Hierarchy](#folder-hierarchy)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Credits](#credits)
 
 ## Description
 
@@ -31,10 +33,14 @@ JamSync is a collaboration tool designed for musicians to streamline the creativ
 
 ## Dependencies
 
-- Node.js
-- React Native
+- Axios
 - Bootstrap
 - MongoDB
+- Node.js
+- React Native
+- React Navigation
+- Redux
+- Redux-Saga
 
 ## Folder Hierarchy
 
