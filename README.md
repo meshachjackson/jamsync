@@ -1,6 +1,8 @@
 # JamSync
 
-This is a collaborative songwriting and arrangement tool designed to simplify the creative process for musicians. With JamSync, musicians can quickly and easily create chord charts, share ideas, and collaborate in real-time, from anywhere in the world.
+JamSync is a collaborative songwriting and arrangement tool designed to simplify the creative process for musicians. With JamSync, musicians can quickly and easily create chord charts, share ideas, and collaborate in real-time, from anywhere in the world.
+
+This project is being developed with the assistance of ChatGPT, a large language model trained by OpenAI, based on the GPT-3.5 architecture.
 
 ## Table of Contents
 
@@ -11,10 +13,11 @@ This is a collaborative songwriting and arrangement tool designed to simplify th
 - [Folder Hierarchy](#folder-hierarchy)
 - [Contributing](#contributing)
 - [License](#license)
+- [Credits](#credits)
 
 ## Description
 
-JamSync is a collaboration tool designed for musicians to streamline the creative process. This project is being developed with the assistance of ChatGPT, a large language model trained by OpenAI, based on the GPT-3.5 architecture.
+JamSync is a collaboration tool designed for musicians to streamline the creative process.
 
 ## Installation
 
@@ -36,8 +39,15 @@ JamSync is a collaboration tool designed for musicians to streamline the creativ
 ## Folder Hierarchy
 
 - `backend`: contains all backend-related files.
+  - `controllers`: contains all controllers for the backend.
+  - `models`: contains all models for the backend.
+  - `routes`: contains all routes for the backend.
 - `frontend`: contains all frontend-related files.
+  - `components`: contains all React components.
+  - `pages`: contains all pages for the app.
+  - `styles`: contains all stylesheets for the app.
 - `design`: contains all design-related files.
+  - `mockups`: contains all mockups for the app.
 - `docs`: contains all project documentation files.
 
 ## Contributing
